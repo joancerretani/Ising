@@ -1,0 +1,12 @@
+# define J 0.6
+# define B 0.0
+# define k 1.0
+
+	/* Parametros */
+	float p = 0.5;              // Probabilidad de llenado.
+	int   n = 32;		        // Tamaño red.
+	int   term  = 10000;		// Pasos termlizacion.
+	int   niter = term*100;      // Pasos luego de termalizar.
+
+
+t TERM = 2.26

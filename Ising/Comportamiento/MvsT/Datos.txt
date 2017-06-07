@@ -1,0 +1,8 @@
+el cambo B es un 0.5% del valor de J
+
+J=1.0 -> B=0.005
+J=0.6 -> B=0.003
+J=0.1 -> B=0.0005
+
+siempre se uso B=0.005
+

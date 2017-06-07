@@ -1,0 +1,7 @@
+- Cv para J=0 y B=1 con N=128.
+- Cv para J=-1 y B=0.1 con N=128.
+- Cv para J=1 y B=0.1 en segundos vecinos con N=128.
+- Hacer el make file.
+- Ver resolucion exacta punto 2.a.
+- Ver ej 3.
+- Ver fenomeno de frustracion.
